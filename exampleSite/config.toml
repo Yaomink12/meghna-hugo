@@ -1,10 +1,10 @@
 baseURL = "yaomink-movie12.netlify.app"
 disableLanguages = []
 disqusShortname = ""
-paginate = "6"
+paginate = "10"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Yaomink Movies List"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
